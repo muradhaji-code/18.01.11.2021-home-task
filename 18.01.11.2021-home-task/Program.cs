@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace _18._01._11._2021_home_task
 {
@@ -56,7 +57,35 @@ namespace _18._01._11._2021_home_task
             #endregion
 
             #region Task 8
-            Console.WriteLine(ShortenSentence("Lorem Ipsum is simply dummy text of the printing and typesetting industry."));
+            //Console.WriteLine(ShortenSentence("Lorem Ipsum is simply dummy text of the printing and typesetting industry."));
+            #endregion
+
+            #region Task 9
+            //string sentence = Console.ReadLine();
+            //Console.WriteLine("String you entered is: " + sentence);
+            #endregion
+
+            #region Task 10
+            //string sentence = Console.ReadLine();
+            //Console.WriteLine("Length of the entered string: " + sentence.Length);
+            #endregion
+
+            #region Task 11
+            //string sentence = Console.ReadLine();
+            //for (int i = sentence.Length - 1; i >= 0; i--)
+            //{
+            //    Console.Write(sentence[i] + " ");
+            //}
+            #endregion
+
+            #region Task 12
+            //string sentence = Console.ReadLine();
+            //Console.WriteLine(CountWords(sentence));
+            #endregion
+
+            #region Task 13
+            //string sentence = Console.ReadLine();
+            //Console.WriteLine(Regex.Matches(sentence.ToLower(), @"the").Count);
             #endregion
         }
 
@@ -181,13 +210,27 @@ namespace _18._01._11._2021_home_task
 
         static string ShortenSentence(string sentence)
         {
-            if(sentence.Length > 50)
+            if (sentence.Length > 50)
             {
                 return sentence.Substring(0, 50) + "...";
-            } else
+            }
+            else
             {
                 return sentence;
             }
+        }
+
+        static int CountWords(string sentence)
+        {
+            int count = 1;
+            for (int i = 0; i < sentence.Length - 1; i++)
+            {
+                if (sentence[i] == ' ' && sentence[i + 1] != ' ')
+                {
+                    count++;
+                }
+            }
+            return count;
         }
     }
 }

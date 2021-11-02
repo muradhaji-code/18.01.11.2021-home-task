@@ -14,3 +14,19 @@ C:\Users\Code Academy\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-ta
 C:\Users\Code Academy\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\ref\18.01.11.2021-home-task.dll
 C:\Users\Code Academy\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.pdb
 C:\Users\Code Academy\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.genruntimeconfig.cache
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\bin\Debug\net5.0\18.01.11.2021-home-task.exe
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\bin\Debug\net5.0\18.01.11.2021-home-task.deps.json
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\bin\Debug\net5.0\18.01.11.2021-home-task.runtimeconfig.json
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\bin\Debug\net5.0\18.01.11.2021-home-task.runtimeconfig.dev.json
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\bin\Debug\net5.0\18.01.11.2021-home-task.dll
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\bin\Debug\net5.0\ref\18.01.11.2021-home-task.dll
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\bin\Debug\net5.0\18.01.11.2021-home-task.pdb
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.csproj.AssemblyReference.cache
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.AssemblyInfoInputs.cache
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.AssemblyInfo.cs
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.csproj.CoreCompileInputs.cache
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.dll
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\ref\18.01.11.2021-home-task.dll
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.pdb
+C:\Users\tu201806256\source\repos\18.01.11.2021-home-task\18.01.11.2021-home-task\obj\Debug\net5.0\18.01.11.2021-home-task.genruntimeconfig.cache
